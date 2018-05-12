@@ -1,0 +1,3 @@
+C:/Users/ILYES/CLionProjects/AUTOMATE/cmake-build-debug/CMakeFiles/AUTOMATE.dir
+C:/Users/ILYES/CLionProjects/AUTOMATE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ILYES/CLionProjects/AUTOMATE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
